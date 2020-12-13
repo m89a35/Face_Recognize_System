@@ -80,4 +80,5 @@
 
 
 Dependency list 已放在 requirement.txt 裡。
+
 原始的zip檔網址如下 : https://drive.google.com/file/d/12FQp4FgC6e1CA66qXHnW9KZ0hpWhXd-n/view?usp=sharing
